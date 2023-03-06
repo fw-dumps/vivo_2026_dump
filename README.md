@@ -1,0 +1,19 @@
+## full_k65v1_64_bsp-user 11 RP1A.200720.012 eng.compil.20211012.154701 release-keys
+- Manufacturer: vivo
+- Platform: mt6765
+- Codename: 2026
+- Brand: vivo
+- Flavor: full_k65v1_64_bsp-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.012
+- Incremental: eng.compil.20211012.154701
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 300
+- Fingerprint: vivo/2026/2026:11/RP1A.200720.012/compiler1012154357:user/release-keys
+- OTA version: 
+- Branch: full_k65v1_64_bsp-user-11-RP1A.200720.012-eng.compil.20211012.154701-release-keys
+- Repo: vivo_2026_dump

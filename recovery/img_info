@@ -1,0 +1,17 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dtbo=dtbo.img
+dt=dtb.img
+kernel_size=14452091
+ramdisk_size=31405587
+dtb_offset=0x07808000
+dtb_size=109322
+base_addr=0x40078000
+kernel_offset=0x00008000
+ramdisk_offset=0x11a88000
+tags_offset=0x07808000
+dtbo_offset=0xc2b44800
+cmd_line='bootopt=64S3,32N2,64N2 product.version=PD2036F_EX_A_6.11.0 fingerprint.abbr=11/RP1A.200720.012 buildvariant=user'
+board=""
+format=gzip
